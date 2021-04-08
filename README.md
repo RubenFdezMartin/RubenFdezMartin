@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RubenFdezMartin
+- 👀 I’m interested in music, photo, desing web and audiovisual projects
+- 🌱 I’m currently learning html, css, js and c#
+- 💞️ I’m looking to collaborate on audiovisual contents
+- 📫 How to reach me: rubenfdezmartin@gmail.com
